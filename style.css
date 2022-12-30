@@ -1,0 +1,25 @@
+body{
+    
+   background: linear-gradient( to right, blue, yellow);  
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 15px;
+}
+
+li{
+    background-color: aliceblue;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.title{
+    color: aliceblue;
+    font-weight: 900;
+}
+
+.error{
+    background-color: red;
+}
